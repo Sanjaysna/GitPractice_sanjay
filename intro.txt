@@ -1,0 +1,1 @@
+I learned that Git helps track changes in code, collaborate with others, and use commands like add, commit, and push to manage versions. 
